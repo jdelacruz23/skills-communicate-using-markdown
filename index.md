@@ -8,3 +8,6 @@ def greet():
 
 greet()
 ```
+- [ ] Drink a glass of water
+- [ ] Go for a walk
+- [ ] Read a book for 15 minutes
